@@ -1,5 +1,5 @@
 # Ho Tin (Timothy) Chan
-Motivated by a strong passion for applying the knowledge and analytical skills gained through my education in physics and engineering, I have contributed to a range of industries, including biotechnology, HVAC (heating, ventilation, and air conditioning), and education. In addition to my role as a high school mathematics and physics teacher, I am developing a [YouTube channel](https://www.youtube.com/@mathspupil) dedicated to providing rigorous solutions and proofs for pure mathematics problems, while also actively enhancing my expertise in computer science.
+Motivated by a strong passion for applying the knowledge and analytical skills gained through my education in physics and engineering, I have contributed to a range of industries, including biotechnology, HVAC (heating, ventilation, and air conditioning), and education. In addition to my role as a high school mathematics and physics teacher, I am developing a [YouTube channel](https://www.youtube.com/@mathspupil) dedicated to providing rigorous solutions and proofs for pure mathematics problems, while also actively enhancing my expertise in software engineering.
 ## Current Focus
 - Harvard CS50's Introduction to Computer Science
 - Backend Developer (roadmap.sh)
