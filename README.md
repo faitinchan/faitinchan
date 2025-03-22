@@ -5,8 +5,8 @@ Motivated by a strong passion for applying the knowledge and analytical skills g
 - Backend Developer (roadmap.sh)
 - Maths Pupil YouTube Channel
 ## My Repositories
-- [Harvard CS50's Introduction to Computer Science (2025)](https://github.com/faitinchan/CS50x)
 - [JavaScript Practice Projects](https://github.com/faitinchan/JavaScript_Practice)
+- [Harvard CS50's Introduction to Computer Science (2025)](https://github.com/faitinchan/CS50x)
 - [My Arch Linux Configuration](https://github.com/faitinchan/My_Arch_Linux_Configuration)
 
 <!--
