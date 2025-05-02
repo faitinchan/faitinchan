@@ -2,6 +2,7 @@
 Fueled by a strong passion for mathematics, physics, and computer science, I actively create educational content on my YouTube channel Maths Pupil, focusing on solutions and rigorous proofs of advanced pure mathematics problems. I also maintain an evolving portfolio on GitHub, where I showcase programming projects that highlight my problem-solving abilities, coding proficiency, and commitment to continuous learning. My goal is to apply analytical thinking and technical skills to solve meaningful problems in both academic and real-world settings.
 ## Current Focus
 - Harvard CS50's Introduction to Computer Science
+- CompTIA A+ Certification
 - Maths Pupil YouTube Channel
 ## My Repositories
 - [Harvard CS50's Introduction to Computer Science (2025)](https://github.com/faitinchan/CS50x)
