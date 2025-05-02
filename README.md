@@ -4,6 +4,7 @@ Fueled by a strong passion for mathematics, physics, and computer science, I act
 - Harvard CS50's Introduction to Computer Science
 - Maths Pupil YouTube Channel
 ## My Repositories
+- [The Most Influential Figures in My Life](https://github.com/faitinchan/My_Heroes)
 - [Harvard CS50's Introduction to Computer Science (2025)](https://github.com/faitinchan/CS50x)
 - [JavaScript Practice Projects](https://github.com/faitinchan/JavaScript_Practice)
 - [My Arch Linux Configuration](https://github.com/faitinchan/My_Arch_Linux_Configuration)
