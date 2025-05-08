@@ -3,7 +3,6 @@ Fueled by a strong passion for mathematics, physics, and computer science, I act
 ## Current Focus
 - CompTIA A+ Certification
 - Harvard CS50's Introduction to Computer Science
-- Maths Pupil YouTube Channel
 ## My Repositories
 - [Harvard CS50's Introduction to Computer Science (2025)](https://github.com/faitinchan/CS50x)
 - [Personal Webpage](https://github.com/faitinchan/My_Heroes)
