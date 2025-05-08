@@ -1,5 +1,9 @@
 # Ho Tin (Timothy) Chan
-Fueled by a strong passion for mathematics, physics, and computer science, I actively create educational content on my YouTube channel Maths Pupil, focusing on solutions and rigorous proofs of advanced pure mathematics problems. I also maintain an evolving portfolio on GitHub, where I showcase programming projects that highlight my problem-solving abilities, coding proficiency, and commitment to continuous learning. My goal is to apply analytical thinking and technical skills to solve meaningful problems in both academic and real-world settings.
+Aspiring network and cybersecurity engineer exploring protocols, infrastructure, and systems security. Currently transitioning from a multidisciplinary background in biotech research, HVAC estimation, and STEM education.
+
+I’m actively learning through hands-on labs, self-study, and projects focused on networking and cybersecurity. I'm also beginning to explore low-level systems programming in C, with future plans to build a physics engine inspired by differential geometry concepts.
+
+This GitHub showcases my progress, experiments, and small wins as I grow in the field.
 ## Current Focus
 - CompTIA A+ Certification
 - Harvard CS50's Introduction to Computer Science
