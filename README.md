@@ -8,6 +8,7 @@ This GitHub showcases my progress, experiments, and small wins as I grow in the 
 - CompTIA A+ Certification
 - Harvard CS50's Introduction to Computer Science
 ## My Repositories
+- [Personal Website](https://github.com/faitinchan/Personal_Website)
 - [Harvard CS50's Introduction to Computer Science (2025)](https://github.com/faitinchan/CS50x)
 - [My Heroes Webpage](https://github.com/faitinchan/My_Heroes)
 - [JavaScript Practice Projects](https://github.com/faitinchan/JavaScript_Practice)
