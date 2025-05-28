@@ -7,7 +7,6 @@ This GitHub showcases my progress, experiments, and small wins as I grow in the 
 ## Current Focus
 - CompTIA A+ Certification
 - Networking
-- Physics Engine
 ## My Repositories
 - [Personal Website](https://github.com/faitinchan/Personal_Website)
 - [Harvard CS50's Introduction to Computer Science (2025)](https://github.com/faitinchan/CS50x)
