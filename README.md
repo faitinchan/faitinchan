@@ -6,13 +6,6 @@ I’m actively learning through hands-on labs, self-study, and projects focused 
 This GitHub showcases my progress, experiments, and small wins as I grow in the field.
 ## Current Focus
 - CompTIA A+ Certification
-## My Repositories
-- [Personal Website](https://github.com/faitinchan/Personal_Website)
-- [Physics Engine](https://github.com/faitinchan/Physics_Engine)
-- [Harvard CS50's Introduction to Computer Science (2025)](https://github.com/faitinchan/CS50x)
-- [My Heroes Webpage](https://github.com/faitinchan/My_Heroes)
-- [JavaScript Practice Projects](https://github.com/faitinchan/JavaScript_Practice)
-- [My Arch Linux Configuration](https://github.com/faitinchan/My_Arch_Linux_Configuration)
 
 <!--
 **faitinchan/faitinchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
