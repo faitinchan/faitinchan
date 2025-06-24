@@ -1,11 +1,9 @@
 # Ho Tin (Timothy) Chan
-Aspiring network and cybersecurity engineer exploring protocols, infrastructure, and systems security. Currently transitioning from a multidisciplinary background in biotech research, HVAC estimation, and STEM education.
+Aspiring cybersecurity engineer exploring protocols, infrastructure, and systems security. Currently transitioning from a multidisciplinary background in biotech research, HVAC estimation, and STEM education.
 
-I’m actively learning through hands-on labs, self-study, and projects focused on networking and cybersecurity. I'm also beginning to explore low-level systems programming in C, with future plans to build a physics engine inspired by differential geometry concepts.
+I’m actively learning through hands-on labs, self-study, and projects focused on cybersecurity.
 
 This GitHub showcases my progress, experiments, and small wins as I grow in the field.
-## Current Focus
-- CompTIA A+ Certification
 
 <!--
 **faitinchan/faitinchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
