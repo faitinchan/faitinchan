@@ -3,7 +3,7 @@ With a strong foundation in physics, computer science, and hands-on technical ex
 
 My path has been unconventional. I began in scientific research, engineering estimation, and technical education, where I developed a deep appreciation for precision, systems thinking, and clear communication of complex ideas. Along the way, I've tackled projects ranging from genetic data analysis and scientific instrumentation to HVAC estimation for multimillion-dollar construction projects. Each experience sharpened my ability to think critically, learn rapidly, and solve real-world problems, skills I now bring with full dedication to my career in secure systems.
 
-I've made a deliberate and committed transition into IT, embedded systems, and cybersecurity, the domain I intend to grow, contribute, and specialize over the long term. Leveraging my programming skills (C, Python, JavaScript), experience with Linux environments (Arch, Kali), and current certifications (Google IT Support, IBM Data Science, Harvard CS50), I'm actively pursuing CompTIA Security+ and gaining hands-on familiarity with tools and workflows used in secure embedded systems.
+I've made a deliberate and committed transition into IT, embedded systems, and cybersecurity, the domain I intend to grow, contribute, and specialize over the long term. Leveraging my programming skills (C, Python, JavaScript), experience with Linux environments (Arch, Kali), and current certifications (Google IT Support, IBM Data Science, Harvard CS50), I'm actively gaining hands-on familiarity with tools and workflows used in secure embedded systems.
 
 I'm especially interested in opportunities where I can:
 - Support or secure embedded systems and industrial control systems
